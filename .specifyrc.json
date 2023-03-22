@@ -1,5 +1,5 @@
 {
-  "repository": "@dropd/test-thomas",
+  "repository": "@dropd/test-design-system",
   "head": "specify",
   "base": "main",
   "rules": [
